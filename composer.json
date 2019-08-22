@@ -1,0 +1,14 @@
+{
+	"name": "jds1993cologne/jsandcsscompressor",
+  "description": "Simple compressor and summer for html websites based on  matthiasmullie/minify",
+  "type": "project",
+  "license": "GPL-3.0+",
+  "require" : {
+		"matthiasmullie/minify" : "~1.2"
+	},
+  "autoload": {
+    "files": [
+      "jsandcsscompressor.php"
+    ]
+  }
+}
